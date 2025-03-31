@@ -14,3 +14,7 @@ int main(void)
 
 	return 0;
 }
+
+void violet-sort(int* arr, const int len) {
+	# 
+}
